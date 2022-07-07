@@ -14,7 +14,7 @@ description: Welcome to my journal! What is this about?
 Hi! This is my first journal entry. I created this journal because trying to
 create great blog posts is hard and decision paralysis or procrastination are
 not great places to be in. This will be raw and informal. Will record events
-and ideas so I do not forget.
+and ideas so I don't forget.
 
 On a complete side note, this journal was a means for me to try astro. Been
 watching a ton of [great videos](https://youtu.be/fp3mYVoMN7w) about it and it

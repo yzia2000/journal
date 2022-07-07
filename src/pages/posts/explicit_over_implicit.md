@@ -93,7 +93,7 @@ selling points are automation, unification, taking the complexity away and
 handling things end to end. Windows/Mac is more popular than Linux and it will
 always be to an end user (not a server). Packing all these things in will incur
 a ton of implicit behaviour and customer will enjoy it while things are meeting
-there needs. Different companies have different implicit behaviours and there
+their needs. Different companies have different implicit behaviours and there
 are different customers with different needs. If your implicit behaviour makes
 sense, there will be a customer out there to try your unique solution because
 they have a unique need. The name of the game is ensuring the implicit
